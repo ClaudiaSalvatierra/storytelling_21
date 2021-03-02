@@ -1,38 +1,64 @@
-# storytelling
-Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2020
+# Proyecto HRUN2021 (template): 
 
-Actividades y trabajos prácticos de la asignatura de **Creación y Difusión de Nuevos Contenidos Audiovisuales**. 
+Nombre del Equipo: GranaSlav
 
-Facultad de Comunicación y Documentación, Universidad de Granada 
-
-
-### Qué es storytelling?  
-
-EL objetivo con estos proyectos es experimentar sobre diferentes medios y estilos de publicación la creación de historias, personajes y modos de difusión. 
-
-### Proyectos seleccionados 
+Proyecto (código): 
 
 
-Lista de repositorios:
+## Resumen
 
 
-- Proyectos 2018 https://github.com/mgea/storytelling/blob/master/2018/readme.md 
-- Proyectos 2019 https://github.com/mgea/storytelling/blob/master/2019/readme.md
-- Proyectos 2020 https://github.com/mgea/storytelling/blob/master/2020/readme.md
+### Personaje
 
-Web con los proyectos seleccionados  http://utopolis.ugr.es/medialab/HRUN/
+![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Plantilla para creación de nuevo proyecto: https://github.com/mgea/storytelling/blob/master/HRUN_plantilla.md 
+Nombre: 
 
 
-### Planning
-
-Se puede consultar las tareas a realizar del [Proyecto](https://github.com/mgea/storytelling/projects)
+### Historia
 
 
-### ¿Qué es una historia HRUN?
+### Contexto
 
 
-Todas las historia están basadas en una de estas líneas argumentales, [entra aquí para conocer que es HRUN](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md)  
+### Conflicto 
 
+
+- Personaje: (img personaje y enlace a interactivo) 
+
+- Banner/Teaser:  (enlace) 
+
+- Storytelling: (enlace) 
+
+------
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
+
+
+Autores:  
+<!---
+Incluir lista de personas del grupo 
+Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
+-->
+
+- :man: minombre
+- :woman: minombre
+- :woman: minombre 
+
+<!---
+Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
+-->
+
+
+
+Marzo, 2021
+
+Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md). 
+Proyectos seleccionados de  [2021](https://github.com/mgea/storytelling/blob/master/2021/readme.md) / [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
+[2019](https://github.com/mgea/storytelling/blob/master/2019/readme.md) / [2018](https://github.com/mgea/storytelling/blob/master/2018/readme.md) 
+
+CCBY [Creacion y Difusión de Nuevos Contenidos Audiovisuales](http://utopolis.ugr.es/medialab)
+
+[Facultad de Comunicación y Documentación](http://fcd.ugr.es)
+
+Universidad de Granada
 
