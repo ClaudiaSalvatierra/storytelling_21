@@ -27,7 +27,7 @@ Nombre: Anatoli Sputnik
 
 - Personaje: https://h5p.org/node/1120730
 
-- Banner/Teaser: 
+- Banner/Teaser: https://cloud.protopie.io/p/ec6edb9c09/1?ui=false&mockup=false&touchHint=false&scaleToFit=false&cursorType=touch
 
 - Storytelling: (enlace) 
 
