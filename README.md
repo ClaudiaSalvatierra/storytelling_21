@@ -17,9 +17,14 @@ Nombre: Anatoli Sputnik
 
 
 ### Historia
-
-
 ### Contexto
+
+STROCHITSBY, 1964.
+Anatoli Sputnik, un cyborg soldado creado durante la Guerra Fría por el gobierno ruso, ha sido retirado del servicio y desterrado de su país para ocultar las pruebas de su existencia. Anatoli viaja hasta llegar a Bielorrusia, en concreto al pequeño pueblo de Strochitsby. Nada más llegar, nuestro protagonista comprende que algo extraño sucede allí. Las calles están vacías, la gente se esconde en sus casas, y una malsana sensación de miedo atormenta el alma de los que allí viven. 
+En su primer día en el pueblo, Anatoli conoce a Boris, dueño de un bar y fabricante de vodka, quien lo pone al corriente de la delicada situación que sufre Strochitsby. Boris le explica a Anatoli que un forastero llegó al pueblo hace pocos meses, un forastero al que llaman Vlad, pero de quien nadie sabe su verdadero nombre. Vlad parece ser un poderoso hechicero oscuro, capaz de dominar a los hombres y oscurecer sus corazones con su terrible poder. Poco a poco, se ha hecho con el control del pueblo aterrorizando a sus habitantes, aunque nadie conoce sus verdaderas intenciones.
+Lo que Anatoli y Boris desconocen, es que Vlad es en realidad el hechicero Rasputín, que sobrevivió a la muerte gracias a su profundo conocimiento de la magia negra. Ahora Rasputín, con su magia renovada y más letal que nunca, busca restablecer la hegemonía de los Romanov en Rusia, para poder manejar los hilos del poder a su antojo y así dominar el mundo con el mayor ejército que la humanidad haya visto jamás. Este ejército no está compuesto solo por hombres, sino por todo tipo de criaturas malvadas y oscuras que Rasputín está reclutando: vampiros, hombres lobo, zombies, Jason…
+Además, Rasputín no está solo en esta misión, ya que con él se encuentra la mismísima Anastasia Romanov, heredera de la Casa Real, a quien Rasputín raptó antes de la masacre de su familia. Siendo solo una niña, el malvado mago instruyó a Anastasia en las artes oscuras y la convirtió en vampiro, con el objetivo de restaurar algún día la línea de sangre gracias a ella. 
+Ahora, mientras Rasputín prepara su feroz y mortal ataque, Anatoli y Boris deben descubrir quién es el forastero y qué está tramando. Una vez que lo descubren, Anatoli decide enfrentarse a él y a su ejército, convocando a toda su antigua compañía de cyborgs soldado, para librar la gran batalla final en la que se decidirá el destino del mundo de una vez por todas.
 
 
 ### Conflicto 
