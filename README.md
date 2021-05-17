@@ -1,4 +1,4 @@
-# Proyecto HRUN2021 (template): 
+# Proyecto HRUN2021: 
 
 Nombre del Equipo: GranaSlav
 
@@ -6,13 +6,14 @@ Proyecto (código):
 
 
 ## Resumen
-
+Anatoli Sputnik fue creado en 1950 para combatir contra los estadounidenses en la Guerra Fría. Es un cyborg ruso, delgado y con cara de malas pulgas. Lleva siempre un chándal de Adidas y boina, y se dedica a beber en el bar con su amigo Boris y a combatir contra los malvados planes de Rasputín y Anastasia.
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![tumblr_pr6utbTXKb1v8qrv6_1280](https://user-images.githubusercontent.com/79904664/118507780-d7183a80-b72e-11eb-89e7-a0b8861f2e00.jpg)
 
-Nombre: 
+
+Nombre: Anatoli Sputnik
 
 
 ### Historia
@@ -24,11 +25,16 @@ Nombre:
 ### Conflicto 
 
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: https://h5p.org/node/1120730
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser: 
 
 - Storytelling: (enlace) 
+
+- Diagrama de ramificaciones de Twine:
+![WhatsApp Image 2021-05-17 at 16 51 52](https://user-images.githubusercontent.com/79904664/118509456-535f4d80-b730-11eb-9338-e0d805c2a59c.jpeg)
+
+
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
